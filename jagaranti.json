@@ -1,0 +1,420 @@
+[
+    {
+        "id": 43,
+        "name": "Straight outta Compton",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/straight-outta-compton/",
+        "sku": "",
+        "short_description": "<p>During the mid-1980s, the rap group NWA rises from the harsh streets of Compton, located in Los Angeles, California. Their music and lyrics, which depict life in the hood, lead to a revolution in Hip Hop culture.</p>",
+        "description": "<p>This movie about the rap group NWA can be bought for 99 NOK.</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "9900",
+            "regular_price": "9900",
+            "sale_price": "9900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;99,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 44,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977.jpeg 1001w, https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977-225x300.jpeg 225w, https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977-769x1024.jpeg 769w, https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977-768x1023.jpeg 768w, https://www.jagaranti.icu/wp-content/uploads/2023/04/straight-compton-e1681477141977-416x554.jpeg 416w",
+                "sizes": "(max-width: 1001px) 100vw, 1001px",
+                "name": "straight-compton",
+                "alt": "Movie cover of straight outta compton"
+            }
+        ],
+        "categories": [
+            {
+                "id": 24,
+                "name": "movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produktkategori/movies/"
+            }
+        ],
+        "tags": [
+            {
+                "id": 25,
+                "name": "Movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produkt-stikkord/movies/"
+            }
+        ],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;Straight outta Compton&rdquo; to your cart",
+            "url": "?add-to-cart=43",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    },
+    {
+        "id": 41,
+        "name": "The pursuit of happyness",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/the-pursuit-of-happyness/",
+        "sku": "",
+        "short_description": "<p>As he is about to embark on a significant career opportunity that could change his life, a salesman who is facing hardship decides to take custody of his son.</p>",
+        "description": "<p>You can by this Will Smith classic from 2006 for only 99 NOK.</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "9900",
+            "regular_price": "9900",
+            "sale_price": "9900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;99,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 42,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956.jpeg 998w, https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956-300x277.jpeg 300w, https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956-768x709.jpeg 768w, https://www.jagaranti.icu/wp-content/uploads/2023/04/The-pursuit-e1681476374956-416x384.jpeg 416w",
+                "sizes": "(max-width: 998px) 100vw, 998px",
+                "name": "The-pursuit",
+                "alt": ""
+            }
+        ],
+        "categories": [
+            {
+                "id": 24,
+                "name": "movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produktkategori/movies/"
+            }
+        ],
+        "tags": [
+            {
+                "id": 25,
+                "name": "Movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produkt-stikkord/movies/"
+            }
+        ],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;The pursuit of happyness&rdquo; to your cart",
+            "url": "?add-to-cart=41",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    },
+    {
+        "id": 39,
+        "name": "Extremely wicked, shockingly evil and vile",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/extremely-wicked-shockingly-evil-and-vile/",
+        "sku": "",
+        "short_description": "<p>The story follows the criminal activities of Ted Bundy as chronicled through the eyes of Liz, his girlfriend of many years. Despite mounting evidence, Liz remained in denial and refused to accept the truth about Bundy&#8217;s crimes.</p>",
+        "description": "<p>You can buy this movie with Zac Efron as Ted Bundy for 129 NOK.</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "12900",
+            "regular_price": "12900",
+            "sale_price": "12900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;129,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 40,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797.jpeg 1499w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-227x300.jpeg 227w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-774x1024.jpeg 774w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-768x1016.jpeg 768w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-1161x1536.jpeg 1161w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-1320x1746.jpeg 1320w, https://www.jagaranti.icu/wp-content/uploads/2023/04/extremely-wicked-e1681475946797-416x550.jpeg 416w",
+                "sizes": "(max-width: 1499px) 100vw, 1499px",
+                "name": "extremely-wicked",
+                "alt": ""
+            }
+        ],
+        "categories": [
+            {
+                "id": 24,
+                "name": "movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produktkategori/movies/"
+            }
+        ],
+        "tags": [
+            {
+                "id": 25,
+                "name": "Movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produkt-stikkord/movies/"
+            }
+        ],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;Extremely wicked, shockingly evil and vile&rdquo; to your cart",
+            "url": "?add-to-cart=39",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    },
+    {
+        "id": 37,
+        "name": "Max Manus: Man of war",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/max-manus-man-of-war/",
+        "sku": "",
+        "short_description": "<p>This is a story based on real events, which narrates the remarkable feats of a highly skilled saboteur during World War II, and his struggle to overcome his inner demons.</p>",
+        "description": "<p>This movie from 2008 with Aksel Hennie as the main star, can be bought for only 99 NOK</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "9900",
+            "regular_price": "9900",
+            "sale_price": "9900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;99,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 38,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus.jpeg 1000w, https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus-210x300.jpeg 210w, https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus-717x1024.jpeg 717w, https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus-768x1097.jpeg 768w, https://www.jagaranti.icu/wp-content/uploads/2023/04/max-manus-416x594.jpeg 416w",
+                "sizes": "(max-width: 1000px) 100vw, 1000px",
+                "name": "max-manus",
+                "alt": "Movie cover of Max Manus: Man of war"
+            }
+        ],
+        "categories": [
+            {
+                "id": 24,
+                "name": "movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produktkategori/movies/"
+            }
+        ],
+        "tags": [
+            {
+                "id": 25,
+                "name": "Movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produkt-stikkord/movies/"
+            }
+        ],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;Max Manus: Man of war&rdquo; to your cart",
+            "url": "?add-to-cart=37",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    },
+    {
+        "id": 33,
+        "name": "Catch me if you can",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/catch-me-if-you-can/",
+        "sku": "",
+        "short_description": "<p>Frank, who is just under 21 years of age, possesses an exceptional talent for forgery and has successfully impersonated a doctor, lawyer, and pilot. Carl, an FBI agent, becomes fixated on capturing this impostor, but Frank relishes the thrill of being pursued.</p>",
+        "description": "<p>This classic movie from 2002 with Leonardo DiCaprio and Tom hanks can be bought for only 99 NOK.</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "9900",
+            "regular_price": "9900",
+            "sale_price": "9900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;99,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 35,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/catch-me-if-u-can.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/catch-me-if-u-can-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/catch-me-if-u-can.jpeg 485w, https://www.jagaranti.icu/wp-content/uploads/2023/04/catch-me-if-u-can-202x300.jpeg 202w, https://www.jagaranti.icu/wp-content/uploads/2023/04/catch-me-if-u-can-416x617.jpeg 416w",
+                "sizes": "(max-width: 485px) 100vw, 485px",
+                "name": "catch-me-if-u-can",
+                "alt": "Movie cover of catch me if you can"
+            }
+        ],
+        "categories": [
+            {
+                "id": 24,
+                "name": "movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produktkategori/movies/"
+            }
+        ],
+        "tags": [
+            {
+                "id": 25,
+                "name": "Movies",
+                "slug": "movies",
+                "link": "https://www.jagaranti.icu/produkt-stikkord/movies/"
+            }
+        ],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;Catch me if you can&rdquo; to your cart",
+            "url": "?add-to-cart=33",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    },
+    {
+        "id": 28,
+        "name": "Narvik: Hitler&#8217;s First Defeat",
+        "parent": 0,
+        "type": "simple",
+        "variation": "",
+        "permalink": "https://www.jagaranti.icu/produkt/narvik-hitlers-first-defeat/",
+        "sku": "",
+        "short_description": "<p>In April 1940, the world&#8217;s attention was fixed on Narvik, a small town located in the northern region of Norway. This town was a crucial source of iron ore required for the war machinery of Hitler. However, after two months of intense winter combat, Hitler experienced his initial defeat.</p>",
+        "description": "<p>You can buy this movie from 2022 for 199 NOK. The movie is directed by Erik Skjoldberg and stars actors like Billy campbell, Stig Henrim Hoff and Kristine Hartgren.</p>",
+        "on_sale": false,
+        "prices": {
+            "price": "19900",
+            "regular_price": "19900",
+            "sale_price": "19900",
+            "price_range": null,
+            "currency_code": "NOK",
+            "currency_symbol": "kr",
+            "currency_minor_unit": 2,
+            "currency_decimal_separator": ",",
+            "currency_thousand_separator": "",
+            "currency_prefix": "kr ",
+            "currency_suffix": ""
+        },
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span>&nbsp;199,00</span>",
+        "average_rating": "0",
+        "review_count": 0,
+        "images": [
+            {
+                "id": 30,
+                "src": "https://www.jagaranti.icu/wp-content/uploads/2023/04/Kampen-om-narvik-e1681473801454.jpeg",
+                "thumbnail": "https://www.jagaranti.icu/wp-content/uploads/2023/04/Kampen-om-narvik-e1681473801454-324x324.jpeg",
+                "srcset": "https://www.jagaranti.icu/wp-content/uploads/2023/04/Kampen-om-narvik-e1681473801454.jpeg 600w, https://www.jagaranti.icu/wp-content/uploads/2023/04/Kampen-om-narvik-e1681473801454-210x300.jpeg 210w, https://www.jagaranti.icu/wp-content/uploads/2023/04/Kampen-om-narvik-e1681473801454-416x594.jpeg 416w",
+                "sizes": "(max-width: 600px) 100vw, 600px",
+                "name": "Kampen-om-narvik",
+                "alt": ""
+            }
+        ],
+        "categories": [],
+        "tags": [],
+        "attributes": [],
+        "variations": [],
+        "has_options": false,
+        "is_purchasable": true,
+        "is_in_stock": true,
+        "is_on_backorder": false,
+        "low_stock_remaining": null,
+        "sold_individually": false,
+        "add_to_cart": {
+            "text": "Add to cart",
+            "description": "Add &ldquo;Narvik: Hitler&#8217;s First Defeat&rdquo; to your cart",
+            "url": "?add-to-cart=28",
+            "minimum": 1,
+            "maximum": 9999,
+            "multiple_of": 1
+        },
+        "extensions": {}
+    }
+]
